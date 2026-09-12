@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://file.garden/agrT7bIE50dldlUX/blur_edges.png">
+  <img src="https://file.garden/agrT7bIE50dldlUX/blur_edges.png" width="1500" height="908">
 </p>
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
